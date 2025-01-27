@@ -1,0 +1,37 @@
+.card-white {
+  background-color: white;
+  width: 350px;
+  padding: 8px;
+}
+
+.card-img {
+  height: 200px;
+
+  background-size: cover;
+  background-position: center;
+}
+
+.card .list-inline {
+  text-align: right;
+}
+
+.list-inline li {
+  margin-top: 8px;
+  color: #B0B0B0;
+}
+
+.card-user {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+}
+
+.card-user a {
+  display: inline-block;
+  margin-left: 8px;
+  color: #4B94BD;
+}
+
+.card-user a:hover {
+  color: #2f5b75;
+}
